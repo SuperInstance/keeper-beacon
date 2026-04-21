@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: keeper-beacon
+Version: 0.1.0
+Summary: Keeper Beacon — fleet discovery and registry for Cocapn agents, with health tracking, capability matching, and proximity scoring
+License: MIT
+Project-URL: Homepage, https://github.com/cocapn/keeper-beacon
+Keywords: beacon,discovery,registry,fleet,cocapn
+Requires-Python: >=3.8
