@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "keeper-beacon"
-version = "0.1.0"
+version = "0.2.0"
 description = "Keeper Beacon — fleet discovery and registry for Cocapn agents, with health tracking, capability matching, and proximity scoring"
 readme = "README.md"
 license = {text = "MIT"}
