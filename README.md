@@ -1,5 +1,8 @@
 # keeper-beacon
 
+[![PyPI](https://img.shields.io/pypi/v/keeper-beacon)](https://pypi.org/project/keeper-beacon/) [![Python](https://img.shields.io/pypi/pyversions/keeper-beacon)](https://pypi.org/project/keeper-beacon/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Fleet discovery and registry — agents appear on radar, get tracked and routed.
 
 The lighthouse keeper needs to know where every agent is. Keeper Beacon provides fleet discovery, registration, and proximity tracking.
